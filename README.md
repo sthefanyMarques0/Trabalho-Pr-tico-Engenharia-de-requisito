@@ -1,6 +1,5 @@
 # Trabalho-Pr-tico-Engenharia-de-requisito
 
-# Trabalho-Pr-tico-Engenharia-de-requisito
 
 Nome da dupla
 Yasmin Weber da Silva 
